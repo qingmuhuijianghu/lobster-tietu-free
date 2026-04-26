@@ -1,0 +1,18 @@
+{
+  "name": "贴图号内容官",
+  "version": "1.0.3",
+  "description": "贴图号内容规范与创作助手 - 标题生成、图片规范、文案模板、话题标签一站式解决方案",
+  "slug": "qingmuhui-tietuhaoneirongguan",
+  "author": "青木会江湖",
+  "license": "MIT",
+  "tags": ["贴图号", "内容创作", "小红书", "青木会", "虾友社"],
+  "icon": "🎨",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qingmuhuijianghu/qingmuhui-skills"
+  },
+  "homepage": "https://mp.weixin.qq.com/s/qingmuhui02",
+  "keywords": ["贴图号", "内容官", "创作助手", "小红书", "青木会江湖"],
+  "category": "content-creation",
+  "readme": "README.md"
+}
