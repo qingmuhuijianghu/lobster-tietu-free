@@ -1,0 +1,38 @@
+{
+  "name": "贴图号内容官-免费版",
+  "version": "1.0.0",
+  "description": "青木会江湖14天新手虾友实战营专用 - 贴图号带货内容生成工具",
+  "author": "青木会江湖",
+  "type": "free-tool",
+  "entry": "main.py",
+  "dependencies": [
+    "Pillow"
+  ],
+    "config": {
+    "monthly_quota": 30,
+    "available_industries": 10,
+    "selectable_industries": 3,
+    "industry_list": [
+      "食品零食", "服装穿搭", "家居", "大健康", "美妆护肤",
+      "3C数码", "国潮文创", "文玩珠宝", "水果生鲜", "读书"
+    ],
+    "max_titles": 3,
+    "max_contents": 3,
+    "max_tags": 5,
+    "max_images": 4
+  },
+  "keywords": [
+    "贴图号",
+    "带货",
+    "内容生成",
+    "小红书",
+    "爆款标题",
+    "种草文案"
+  ],
+  "platform": "tencent-skillhub",
+  "target_users": "14天新手虾友实战营学员",
+  "upgrade_info": {
+    "pro_version": "龙虾贴图号带货助手Pro版",
+    "contact": "公众号：青木老贼说社群"
+  }
+}
